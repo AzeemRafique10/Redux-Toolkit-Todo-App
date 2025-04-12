@@ -9,7 +9,9 @@ function TodosList() {
 
   return (
     <>
-      <h1 className="neon-header">Todos</h1>
+      <h1 className="neon-header" style={{ marginTop: 30 }}>
+        Todos
+      </h1>
 
       <ul className="neon-list">
         {todos.map((todo: TodoTypes) => (
