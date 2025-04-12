@@ -1,6 +1,6 @@
-# Neon Todo App
+# Redux Toolkit Todo App
 
-Welcome to the Neon Todo App! This is a visually stunning to-do list app that combines a sleek neon-inspired UI with interactive features for managing tasks. The app leverages React, Ant Design components, and modern CSS to create an exciting and engaging user experience.
+Welcome to the Redux Toolkit Todo App! This is a visually stunning to-do list app that combines a sleek neon-inspired UI with interactive features for managing tasks. The app leverages React, Ant Design components, and modern CSS to create an exciting and engaging user experience.
 
 ## Features
 
@@ -30,21 +30,21 @@ To get started, follow these steps:
 2. Navigate into the project directory:
 
    ```bash
-   cd neon-todo-app
+   cd Redux-Toolkit-Todo-App
    ```
 
 3. Install dependencies:
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 4. Start the development server:
    ```bash
-   npm start
+   pnpm start
    ```
 
-Your app should now be live at `http://localhost:3000`.
+Your app should now be live at `http://localhost:5173`.
 
 ## Usage
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [azeemrafique47@gmail.com].
